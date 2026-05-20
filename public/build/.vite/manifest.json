@@ -1,0 +1,17 @@
+{
+  "../resource/css/app.css": {
+    "file": "assets/styles-BmtWQ3nA.css",
+    "name": "styles",
+    "names": [
+      "styles.css"
+    ],
+    "src": "../resource/css/app.css",
+    "isEntry": true
+  },
+  "../resource/js/app.js": {
+    "file": "assets/main-DkP8238w.js",
+    "name": "main",
+    "src": "../resource/js/app.js",
+    "isEntry": true
+  }
+}

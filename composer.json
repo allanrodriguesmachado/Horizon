@@ -1,0 +1,23 @@
+{
+    "name": "allandeveloper/larazend",
+    "description": "Creating my framework",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers/vite.php"
+        ]
+    },
+
+    "authors": [
+        {
+            "name": "Allan Rodrigues"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^8.0"
+    }
+}
